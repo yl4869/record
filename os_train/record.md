@@ -18,6 +18,8 @@ time 4.5
 完成简单题
 
 time 4.6 
+制作了[学习笔记](https://stuneueducn-my.sharepoint.com/:o:/g/personal/20205985_stu_neu_edu_cn/EjaGilRJwLZLr4GWhtNmhQwBsS3Mu0AFsYoHk63MYC_tqg?e=ZORqoN) ,之后的内容会放在这里
+
 完成了五道中等题，这里写的慢主要是一面自己写了下，一面又去学习了答案。
 
 发现自己的写法还是偏向C，没有充分利用迭代器，方法和闭包等黑科技。
