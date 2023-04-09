@@ -21,3 +21,11 @@ time 4.6
 完成了五道中等题，这里写的慢主要是一面自己写了下，一面又去学习了答案。
 
 发现自己的写法还是偏向C，没有充分利用迭代器，方法和闭包等黑科技。
+
+time 4.7 
+继续做中等题，发现难度还是很大
+
+time 4.8
+总结了之前一段时间的学习，资料在下面链接。以后也会将内容更新在里面
+
+https://stuneueducn-my.sharepoint.com/:o:/g/personal/20205985_stu_neu_edu_cn/EjaGilRJwLZLr4GWhtNmhQwBsS3Mu0AFsYoHk63MYC_tqg
