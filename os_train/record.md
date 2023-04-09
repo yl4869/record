@@ -28,6 +28,4 @@ time 4.7
 继续做中等题，发现难度还是很大
 
 time 4.8
-总结了之前一段时间的学习，资料在下面链接。以后也会将内容更新在里面
-
-https://stuneueducn-my.sharepoint.com/:o:/g/personal/20205985_stu_neu_edu_cn/EjaGilRJwLZLr4GWhtNmhQwBsS3Mu0AFsYoHk63MYC_tqg
+总结了之前一段时间的学习，资料继续放在上面了
